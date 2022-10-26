@@ -1,8 +1,8 @@
-name: chandan's first command
+name: chandan first command
 on: [push]
 
 jobs:
-  chandan's first command:
+  chandan first command:
     runs-on:  ubuntu-latest
     steps:
       - name: Echo command
