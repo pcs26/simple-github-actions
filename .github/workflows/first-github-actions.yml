@@ -5,5 +5,5 @@ jobs:
   chandan's first command:
     runs-on:  ubuntu-latest
     steps:
-      -name: Echo command
+      - name: Echo command
         run:  echo "This is Chandan's first yml script"
