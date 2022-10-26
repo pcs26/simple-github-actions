@@ -2,7 +2,7 @@ name: chandan first command
 on: [push]
 
 jobs:
-  chandan first command:
+  chandan-first-command:
     runs-on:  ubuntu-latest
     steps:
       - name: Echo command
